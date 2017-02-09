@@ -16,3 +16,6 @@ Task2.py (Defining the core methods)
 DataSet1.py
 DataSet2.py
 DataSet2Transformed.py
+
+
+All the files should be runnable, in this order to follow the exercise.
