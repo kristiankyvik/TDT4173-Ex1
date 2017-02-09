@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pylab
+mpl_toolkits
+random
+csv
