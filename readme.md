@@ -2,7 +2,9 @@
 # TDT4173 Machine Learning Exercise 1 #
 In order to make sure you have all the packages required to run my code cd into hte root directory and run following command:
 
+```python
 pip install -r requirements.txt
+```
 
 The files and their connection to the exercises is shon below:
 
